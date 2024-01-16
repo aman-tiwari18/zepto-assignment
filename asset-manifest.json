@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zepto-assignment/static/css/main.1cbdf285.css",
+    "main.js": "/zepto-assignment/static/js/main.e6f70daf.js",
+    "index.html": "/zepto-assignment/index.html",
+    "main.1cbdf285.css.map": "/zepto-assignment/static/css/main.1cbdf285.css.map",
+    "main.e6f70daf.js.map": "/zepto-assignment/static/js/main.e6f70daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cbdf285.css",
+    "static/js/main.e6f70daf.js"
+  ]
+}
